@@ -3,7 +3,7 @@
 ``` git clone https://github.com/migalinas/DZ_5.git ```
 ## 2.Используем следующие команды:
 ### 1) {для 5_2}
-``` cd DZ_5 ```
+``` cd DZ_5/5.2 ```
 ### 2)
 ```mkdir build```
 ### 3)
